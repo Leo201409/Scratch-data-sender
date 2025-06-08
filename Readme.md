@@ -15,4 +15,5 @@ Send a word from Python to a Scratch cloud project using ASCII encoding.
 ## Run
 ```bash
 python main.py
+```
    
